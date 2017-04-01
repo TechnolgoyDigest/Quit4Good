@@ -23,6 +23,10 @@ header {
     font-weight: 700;
     opacity: .75;
 }
+.landing .brand img {
+    display: block;
+    margin: 0 auto;
+}
 .landing p {
     font-size: 2rem;
     font-weight: 400;
